@@ -1,4 +1,4 @@
-This is a temporary fork of <a href="https://github.com/MrJul/ForTea/"> ForTea</a> updated to work with ReSharper 2018.2.3. 
+This is a temporary fork of the <a href="https://github.com/MrJul/ForTea/"> ForTea</a> extension for Resharper. Updated for Resharper 2018.2.3
 
 
 
